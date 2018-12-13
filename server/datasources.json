@@ -1,6 +1,12 @@
 {
   "db": {
+    "host": "172.17.0.2",
+    "port": 27017,
+    "url": "",
+    "database": "comida",
+    "password": "",
     "name": "db",
-    "connector": "memory"
+    "user": "",
+    "connector": "mongodb"
   }
 }
